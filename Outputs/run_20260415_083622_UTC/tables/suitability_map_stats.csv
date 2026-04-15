@@ -1,0 +1,16 @@
+item,value
+stage,cover_activity_and_preliminary_suitability
+window_radius,2
+window_size,5
+local_std_min,0.0
+local_std_max,15.102317810058594
+local_std_mean,2.515925168991089
+local_std_std,1.7190688848495483
+grad_mag_min,0.0
+grad_mag_max,18.03468894958496
+grad_mag_mean,1.8251069784164429
+grad_mag_std,1.4601151943206787
+suitability_min,0.0
+suitability_max,1.0
+suitability_mean,0.15599682927131653
+suitability_std,0.11049173027276993

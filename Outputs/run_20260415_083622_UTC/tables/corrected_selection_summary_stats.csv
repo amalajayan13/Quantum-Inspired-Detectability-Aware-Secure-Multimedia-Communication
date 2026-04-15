@@ -1,0 +1,15 @@
+item,value
+stage,corrected_maps_and_selection_summary
+payload_length_bits,4096
+cover_capacity_pixels,65536
+payload_rate,0.0625
+selected_pixels,4096
+fraction_pixels_selected,0.0625
+mean_local_activity_global,2.515925168991089
+mean_local_activity_selected,5.510644912719727
+mean_suitability_global,0.15599682927131653
+mean_suitability_selected,0.35178524255752563
+mean_utility_global,0.35292306542396545
+mean_utility_selected,0.5786604285240173
+basis_match_global,0.7186431884765625
+basis_match_selected,1.0
