@@ -1,0 +1,14 @@
+{
+  "basis_seed_offset": 101,
+  "basis_modes": 2,
+  "basis_match_probability": 0.72,
+  "window_radius": 2,
+  "alpha_suitability_weight": 0.65,
+  "beta_basis_weight": 0.35,
+  "border_margin": 8,
+  "block_size": 16,
+  "suitability_quantile": 0.75,
+  "fallback_suitability_quantile": 0.5,
+  "topup_temperature": 0.12,
+  "topup_core_fraction": 0.7
+}

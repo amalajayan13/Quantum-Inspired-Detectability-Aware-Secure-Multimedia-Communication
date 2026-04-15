@@ -1,0 +1,16 @@
+{
+  "project_name": "quantum_inspired_covert_image_steganography",
+  "pipeline_stage": "initialization",
+  "experiment_id": "be9fa50c4d68",
+  "run_timestamp": "20260415_083622_UTC",
+  "python_version": "3.12.13",
+  "python_executable": "/usr/bin/python3",
+  "platform": "Linux-6.6.113+-x86_64-with-glibc2.35",
+  "numpy_version": "2.0.2",
+  "pandas_version": "2.2.2",
+  "matplotlib_version": "3.10.0",
+  "pillow_version": "11.3.0",
+  "working_directory": "/content/drive/MyDrive/8_stego",
+  "run_directory": "/content/drive/MyDrive/8_stego/Outputs/run_20260415_083622_UTC",
+  "utc_datetime_iso": "2026-04-15T08:36:50.754143+00:00"
+}
