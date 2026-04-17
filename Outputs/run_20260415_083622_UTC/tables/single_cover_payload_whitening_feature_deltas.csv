@@ -1,3 +1,0 @@
-variant,lsb_mean_delta_from_cover,lsb_h_agreement_delta_from_cover,lsb_v_agreement_delta_from_cover,pair_balance_mean_delta_from_cover,pair_balance_std_delta_from_cover,pair_balance_max_delta_from_cover,coarse_hist_bin_15_delta_from_cover
-plain_payload,-0.0048065185546875,0.0031556372549019773,0.0010110294117646745,-7.867813110351562e-06,1.4022085437073468e-05,-6.103515625e-05,0.0
-whitened_payload,-1.52587890625e-05,0.0001225490196078427,-0.0007965686274510331,-6.67572021484375e-06,3.5363986642253853e-06,-0.0001678466796875,0.0

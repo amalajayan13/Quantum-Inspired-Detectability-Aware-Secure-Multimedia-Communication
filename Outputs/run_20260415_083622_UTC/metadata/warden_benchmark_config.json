@@ -1,9 +1,0 @@
-{
-  "n_splits": 100,
-  "test_size": 0.33,
-  "classifier": "logistic_regression",
-  "logreg_C": 1.0,
-  "max_iter": 5000,
-  "class_weight": "balanced",
-  "use_fixed_secret": true
-}
