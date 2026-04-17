@@ -1,0 +1,13 @@
+item,value
+stage,synthetic_sanity_data
+cover_shape,"(256, 256)"
+cover_dtype,uint8
+cover_min,70
+cover_max,227
+cover_mean,149.55567932128906
+cover_std,29.581321438296786
+secret_shape,"(64, 64)"
+secret_dtype,uint8
+secret_ones,1743
+secret_zeros,2353
+secret_one_fraction,0.425537109375

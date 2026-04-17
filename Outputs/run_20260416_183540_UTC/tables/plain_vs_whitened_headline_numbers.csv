@@ -1,0 +1,16 @@
+item,value
+plain_auc_mean,0.763061224489796
+white_auc_mean,0.5700000000000001
+auc_reduction_mean,0.1930612244897959
+plain_accuracy_mean,0.7049999999999998
+white_accuracy_mean,0.5135714285714285
+accuracy_reduction_mean,0.19142857142857145
+white_psnr_mean,63.20000733923879
+plain_psnr_mean,63.16219130353542
+psnr_gain_mean,0.037816035703351805
+white_fraction_changed_mean,0.031125749860491072
+plain_fraction_changed_mean,0.03140113467261905
+fraction_changed_reduction_mean,0.0002753848121279762
+splits_where_white_auc_lt_plain_auc,1.0
+splits_where_white_acc_lt_plain_acc,0.96
+covers_where_white_psnr_gt_plain_psnr,0.7142857142857143
