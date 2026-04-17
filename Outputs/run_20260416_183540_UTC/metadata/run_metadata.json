@@ -1,0 +1,16 @@
+{
+  "project_name": "quantum_inspired_covert_image_steganography",
+  "pipeline_stage": "initialization",
+  "experiment_id": "81ff5b765728",
+  "run_timestamp": "20260416_183540_UTC",
+  "python_version": "3.10.20",
+  "python_executable": "C:\\Users\\amala\\anaconda3\\envs\\deepfake\\python.exe",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "numpy_version": "2.2.5",
+  "pandas_version": "2.3.3",
+  "matplotlib_version": "3.10.8",
+  "pillow_version": "11.1.0",
+  "working_directory": "F:\\MBZUAI UAE\\8-CMES-Quantum-Stego\\1-CMES-Submission",
+  "run_directory": "F:\\MBZUAI UAE\\8-CMES-Quantum-Stego\\1-CMES-Submission\\Outputs\\run_20260416_183540_UTC",
+  "utc_datetime_iso": "2026-04-16T18:35:40.769883+00:00"
+}
